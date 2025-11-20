@@ -10,7 +10,7 @@ import os
 import io
 
 # --- Configuration ---
-MODEL_PATH = "/home/nasc/Downloads/PROJECT_FILES/best_model_MIMIC_FINAL.pth"
+MODEL_PATH = "best_model_MIMIC_FINAL.pth"
 TOKENIZER_NAME = "dmis-lab/biobert-base-cased-v1.1"
 
 # Model Config (must match the trained model)
